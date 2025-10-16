@@ -1,4 +1,5 @@
-# Airline-Passenger-Forecast
+# Airline Passenger Data: R based Forecasting
+![iihdd](https://github.com/user-attachments/assets/5f8ec0be-cd87-444a-aad9-ab118f5451b2)
 
 ## Forecasting Airline Passenger Traffic with Time Series Analysis (ARIMA)
 
